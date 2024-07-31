@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ronfel
 - 🌱 I’m currently learning python
-- 📫 sevenrdgo@gmail.com
+- 📫 rodrigonflara@gmail.com
 
 <!---
 Ronfel/Ronfel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
