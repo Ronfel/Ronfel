@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ronfel
 - 🌱 I’m currently learning python
+- 🖥️ Delphi Developer
 - 📫 rodrigonflara@gmail.com
 
 <!---
